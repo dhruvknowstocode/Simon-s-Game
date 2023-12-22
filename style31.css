@@ -1,0 +1,44 @@
+body{
+    text-align: center;
+    background-color: wheat;
+    border: 5px double brown;
+    /* background-image: url("peter.jpg");
+    height: 100%;
+    background-repeat: round; */
+
+}
+.btn{
+    height: 200px;
+    width: 200px;
+    border-radius: 25%;
+    border: 6px solid black;
+    margin: 2rem;
+}
+.line1{
+    display: flex;
+    justify-content: center;;
+}
+.line2{
+    display: flex;
+    justify-content: center; 
+}
+.red{
+    background-color: #d95980;
+}
+.yellow{
+    background-color: #f99b45;
+}
+.purple{
+    background-color: #899ff9;
+}
+.blue{
+    background-color: #63aac0;
+}
+.flash{
+    background-color: white;
+}
+h4{
+    margin-right: 370px;
+    text-align: right;
+    text-decoration: overline;
+}
